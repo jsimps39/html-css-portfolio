@@ -40,6 +40,7 @@ nav a:hover{
 .about-detail img{
     margin-right: 16px;
     margin-bottom: 16px;
+    width: 200px;
 }
 
 section{
@@ -66,3 +67,20 @@ section{
  .featured{
     width: 100%;
  }
+
+ footer{
+    padding: 20px;
+    background-color: navy;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+ }
+footer a{
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: smaller;
+}
+
+footer a:hover{
+    text-decoration: underline;
+}
