@@ -15,4 +15,4 @@ This project was a webpage I created as a portfolio to showcase some of the proj
 
 #### Visuals
 The following is a visual image of what the webpage looks like now
-![Website](/_Users_jamessimpson_bootcamp_challenges_html-css-portfolio_index.html%20(1).png)
+![Website](/html-css-portfolio_index.html%20(1).png)
